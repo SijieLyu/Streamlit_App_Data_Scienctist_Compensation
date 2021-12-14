@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-abseil-cpp=20210324.2=he49afe7_0
+# abseil-cpp=20210324.2=he49afe7_0
 altair=4.1.0=py_1
 appnope=0.1.2=py39h6e9494a_2
 argh=0.26.2=pyh9f0ad1d_1002
